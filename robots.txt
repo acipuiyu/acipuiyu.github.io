@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://acipuiyu.github.io/JuD/sitemap_index.txt
+Sitemap: https://acipuiyu.github.io/UHi/sitemap_index.txt
+Sitemap: https://acipuiyu.github.io/nbs/sitemap_index.txt
+Sitemap: https://acipuiyu.github.io/uqV/sitemap_index.txt
